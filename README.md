@@ -1,1 +1,1 @@
-i am working now
+My readme on shell basics
